@@ -1,0 +1,10 @@
+pre-commit
+langdetect==1.0.7
+stanfordnlp==0.1.1
+xlrd==1.1.0
+matplotlib==2.2.3
+gensim==3.6.0
+numpy==1.15.4
+xlwt==1.3.0
+dyNET==2.1
+nltk==3.3

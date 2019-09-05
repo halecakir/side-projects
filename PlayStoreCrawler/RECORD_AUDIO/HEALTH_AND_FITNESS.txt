@@ -1,0 +1,2 @@
+com.sec.android.app.shealth
+com.nutritionix.nixtrack
